@@ -1,0 +1,15 @@
+/Users/denashivanandareddypitta/Projects/structurs/structurs/bin/Debug/net6.0/structurs
+/Users/denashivanandareddypitta/Projects/structurs/structurs/bin/Debug/net6.0/structurs.deps.json
+/Users/denashivanandareddypitta/Projects/structurs/structurs/bin/Debug/net6.0/structurs.runtimeconfig.json
+/Users/denashivanandareddypitta/Projects/structurs/structurs/bin/Debug/net6.0/structurs.dll
+/Users/denashivanandareddypitta/Projects/structurs/structurs/bin/Debug/net6.0/structurs.pdb
+/Users/denashivanandareddypitta/Projects/structurs/structurs/obj/Debug/net6.0/structurs.csproj.AssemblyReference.cache
+/Users/denashivanandareddypitta/Projects/structurs/structurs/obj/Debug/net6.0/structurs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denashivanandareddypitta/Projects/structurs/structurs/obj/Debug/net6.0/structurs.AssemblyInfoInputs.cache
+/Users/denashivanandareddypitta/Projects/structurs/structurs/obj/Debug/net6.0/structurs.AssemblyInfo.cs
+/Users/denashivanandareddypitta/Projects/structurs/structurs/obj/Debug/net6.0/structurs.csproj.CoreCompileInputs.cache
+/Users/denashivanandareddypitta/Projects/structurs/structurs/obj/Debug/net6.0/structurs.dll
+/Users/denashivanandareddypitta/Projects/structurs/structurs/obj/Debug/net6.0/refint/structurs.dll
+/Users/denashivanandareddypitta/Projects/structurs/structurs/obj/Debug/net6.0/structurs.pdb
+/Users/denashivanandareddypitta/Projects/structurs/structurs/obj/Debug/net6.0/structurs.genruntimeconfig.cache
+/Users/denashivanandareddypitta/Projects/structurs/structurs/obj/Debug/net6.0/ref/structurs.dll
